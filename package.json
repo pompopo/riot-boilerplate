@@ -8,6 +8,6 @@
   "author": "pompopo",
   "license": "MIT",
   "devDependencies": {
-    "riot": "^3.4.1"
+    "riot": "^3.4.4"
   }
 }
